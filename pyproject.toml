@@ -1,0 +1,5 @@
+[tool.pyright]
+strict = ["strec"]
+ignore = ["tests"]
+venvPath = "."
+venv = "venv"

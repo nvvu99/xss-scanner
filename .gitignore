@@ -1,0 +1,7 @@
+venv/
+firefox/
+geckodriver.log
+.session.vim
+__pycache__
+.env
+*.egg-info
